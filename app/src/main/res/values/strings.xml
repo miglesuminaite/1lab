@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
-    <string name="button2">Button</string>
+    <string name="button2">Pakeisti teksta</string>
+    <string name="button3">Pakeisti spalva</string>
 </resources>
