@@ -35,6 +35,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void button3(View view) {
         TextView tv = (TextView)findViewById(R.id.tvChangeText);
-        tv.setTextColor(Color.RED);
+        tv.setTextColor(Color.BLUE);
     }
 }
